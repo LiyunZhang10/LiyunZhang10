@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @z1y0, a sophomore student majoring in Software Engineering at the University of Electronic Science and Technology of China.
-- 👀 I am passionate about football, anime, photography, and programming.
-- 🌱 I’m currently learning Python, Java, JavaScript
-- 💞️ I’m looking to collaborate on machine learning 
+- 👋 Hi, I’m @z1y0
 - 📫 You can reach me at 743478304@qq.com 
 
 <!---
